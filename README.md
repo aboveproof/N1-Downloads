@@ -2,4 +2,4 @@
 
 ## Random Things To Download For https://nighty.one
 
-## [ThemesV2](https://github.com/aboveproof/N1-Downloads/blob/main/scripts/ThemesV2.py)
+## [Nighty ThemesV2](https://github.com/aboveproof/N1-Downloads/blob/main/scripts/ThemesV2.py) | Change your nighty themes into discord's new Components V2
